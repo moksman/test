@@ -6,3 +6,4 @@ feature 1.5
 some changes
 feature 1.6
 feature 1.7
+feature 1.8
